@@ -31,4 +31,4 @@ Using yarn:
 `$ yarn add random-ts-library`
 
 ## License
-[MIT](https://github.com/el634dev/random-lib/blob/main/LICENSE.txt)
+[MIT](https://github.com/el634dev/random-ts-library/blob/main/LICENSE.txt)
