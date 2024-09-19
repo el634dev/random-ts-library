@@ -1,7 +1,7 @@
 # random-lib
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/el634dev/random-lib)
-![GitHub repo size](https://img.shields.io/github/repo-size/el634dev/random-lib)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/el634dev/random-ts-library)
+![GitHub repo size](https://img.shields.io/github/repo-size/el634dev/random-ts-library)
 
 Random lib is a TS library which provides straight-forward, powerful helper functions for working with the random function in JavaScript. Although originally builted into JavaScript and can be called by using Math.random(), it can also be used with other methods, objects, data types and for other purposes. A JavaScript version will be included in the main library that should available for use automatically.
 
