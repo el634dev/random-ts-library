@@ -6,14 +6,6 @@ function random(): number {
     return parseInt(Math.random().toString());
 }
 
-/**
- * Returns a random number between 0 and n
- * @param {random} n - local variable used to return a number
- * @returns {random} - a random number between 0 and n
-*/
-function randomNumberBetweenZeroAndN(n: number): number {
-    return parseInt((Math.random() * n).toString());
-}
 
 /**
  * Returns a random number between n and o
