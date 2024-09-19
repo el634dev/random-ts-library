@@ -1,4 +1,4 @@
-# random-lib
+# random-ts-library
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/el634dev/random-ts-library)
 ![GitHub repo size](https://img.shields.io/github/repo-size/el634dev/random-ts-library)
