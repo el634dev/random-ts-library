@@ -1,0 +1,32 @@
+{
+  "name": "random-ts-library",
+  "version": "1.0.0",
+  "description": "Helper functions to work with the random function",
+  "main": "src/index.ts",
+  "module": "dist/bundle.esm.js",
+  "types": "dist/types/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "keywords": [
+    "random",
+    "javascript",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@types/jest": "^29.5.13",
+    "jest": "^29.7.0",
+    "rollup": "^4.22.0",
+    "rollup-plugin-typescript2": "^0.36.0"
+  }
+}
