@@ -81,7 +81,7 @@ describe("Testing the generateDieNumber function", () => {
         const number = generateDieNumber(x);
 
         expect(number).toBeLessThanOrEqual(x)
-        expect(number).toBeGreaterThanOrEqual(1)
+        expect(number).toBeLessThanOrEqual(1)
     })
 })
 
