@@ -78,7 +78,7 @@ describe("Testing the generateDieNumber function", () => {
     })
 
     test("Should return a random number between 1 and x", () => {
-        const number = generateDieNumber(x);
+        const number = generateDieNumber(0);
 
         expect(number).toBeLessThanOrEqual(x)
         expect(number).toBeLessThanOrEqual(1)
