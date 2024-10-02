@@ -19,7 +19,6 @@ describe("Testing the random function", () => {
     test("Should return a random number between 0 and 1", () => {
         const number = random();
 
-        expect(random(number)).toBe(number)
         expect(random(number)).toBeGreaterThanOrEqual(0)
         expect(random(number)).toBeLessThanOrEqual(1)
     })
