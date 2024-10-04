@@ -2,7 +2,7 @@
   "name": "random-ts-library",
   "version": "1.0.0",
   "description": "Helper functions to work with the random function",
-  "main": "src/index.ts",
+  "main": "dist/bundle.umd.js",
   "module": "dist/bundle.esm.js",
   "types": "dist/types/index.d.ts",
   "type": "module",
