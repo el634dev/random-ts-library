@@ -1,5 +1,5 @@
 // Testing random library, remove "type": "module" before running and after just add
-const randomLib = require('../src/index');
+const randomLib = require('../dist/bundle.umd');
 
 // Return a random number between 0 and 1
 const randomNumber = randomLib.random()
