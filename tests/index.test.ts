@@ -6,7 +6,7 @@ const {
     shuffleArray,
     flip,
     dieRoll
-} = require("../dist/bundle.umd.js");
+} = require("../dist/bundle.esm.js");
 
 describe("Testing the random function", () => {
     test("Should be a number type", () => {
